@@ -12,7 +12,7 @@ import wikipedia
 api_id = your api
 api_hash = 'your hash'
 
-MY_ID = 8219880204
+MY_ID = your_id
 
 SESSIONS_DIR = 'file_sessions'
 
